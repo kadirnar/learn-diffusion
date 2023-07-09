@@ -60,4 +60,8 @@ repos:
 
 ci:
     autofix_commit_msg: "fix(pre_commit): 🎨 auto format pre-commit hooks"
+<<<<<<< HEAD
     autoupdate_commit_msg: "fix(pre_commit): ⬆ pre_commit autoupdate"
+=======
+    autoupdate_commit_msg: "fix(pre_commit): ⬆ pre_commit autoupdate"
+>>>>>>> 77a4ae84e8419245461dcac41a7286db7c0d847f

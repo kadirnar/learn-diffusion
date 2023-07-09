@@ -72,4 +72,8 @@ jobs:
         if: matrix.os == 'windows-latest'
         run: |
              .\venv\Scripts\Activate.ps1
+<<<<<<< HEAD
              poetry install
+=======
+             poetry install
+>>>>>>> 77a4ae84e8419245461dcac41a7286db7c0d847f
